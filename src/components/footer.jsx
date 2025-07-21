@@ -37,7 +37,7 @@ class Footer extends Component {
                             Email
                         </a>
                         <a
-                            href="wa.me/6282288471175"
+                            href="https://wa.me/+6282288471175"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="hover:text-gray-400 transition">

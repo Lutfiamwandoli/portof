@@ -29,7 +29,7 @@ class Footer extends Component {
                             LinkedIn
                         </a>
                         <a
-                            href="https://mail.google.com/mail/?view=cm&fs=1&to=lutfiamwandolisiregar@gmail.com"
+                            href="https://mailto=lutfiamwandolisiregar@gmail.com"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="hover:text-gray-400 transition"

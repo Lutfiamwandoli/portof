@@ -30,13 +30,15 @@ class Footer extends Component {
                         </a>
                         <a
                             href="mailto:lutfiamwandolisiregar@gmail.com"
+                            target="_blank"
+                            rel="noopener noreferrer"
                             className="hover:text-gray-400 transition"
                         >
                             Email
                         </a>
                         <a
-                            href="wa.me6282288471175"
-                        
+                            href="wa.me/6282288471175"
+                            target="_blank"
                             rel="noopener noreferrer"
                             className="hover:text-gray-400 transition">
                             WhatsApp

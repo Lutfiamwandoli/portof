@@ -29,11 +29,18 @@ class Footer extends Component {
                             LinkedIn
                         </a>
                         <a
-                            href="mailto:your@email.com"
+                            href="mailto:lutfiamwandolisiregar@gmail.com"
                             className="hover:text-gray-400 transition"
                         >
                             Email
                         </a>
+                        <a
+                            href="wa.me6282288471175"
+                        
+                            rel="noopener noreferrer"
+                            className="hover:text-gray-400 transition">
+                            WhatsApp
+                            </a>
                     </div>
                 </div>
             </footer>
